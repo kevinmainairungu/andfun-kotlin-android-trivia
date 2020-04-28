@@ -27,7 +27,7 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 ### Table of contents
 
 **1 [About the App](#about-the-app)**<br>
-**2 [General Preview](#general-preview)**<br>
+**2 [General Preview](##general-preview)**<br>
 **3 [Technical](#technical)**<br>
 **4 [Work in Progress](#work-in-progress)**<br>
 **5 [Contributing](#contributing)**<br>
@@ -39,12 +39,15 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 
 
 <hr>
+
 # About the app
 
 The Android Trivia application is an application that asks the user trivia questions about Android development.  It makes use of the Navigation component within Jetpack to move the user between different screens.  Each screen is implemented as a Fragment.
 The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 <hr>
+
 ## General Preview
+
 #### Screenshots of the app
 
 <img src="screenshots/Screenshot_1587483765.png" width="200">
@@ -55,8 +58,11 @@ The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 
 
 <hr>
+
 ## Technical
+
 ## Permissions
+
 * Any permissions needed by the app i.e:
 
 1. Internet
