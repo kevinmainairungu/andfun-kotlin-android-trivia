@@ -38,9 +38,6 @@ class GameWonFragment : Fragment() {
                     GameWonFragmentDirections.actionGameWonFragmentToGameFragment())
         }
 
-        Toast.makeText(context,
-                "NumCorrect: ${args.numCorrect}, NumQuestions: ${args.numQuestions}",
-                Toast.LENGTH_LONG).show()
         setHasOptionsMenu(true)
         return binding.root
     }
@@ -61,5 +58,12 @@ class GameWonFragment : Fragment() {
 
     private fun shareSuccess() {
         startActivity(getShareIntent())
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        when (item!!.itemId) {
+            R.id.share -> shareSuccess()
+        }
+        return super.onOptionsItemSelected(item)
     }
 }
