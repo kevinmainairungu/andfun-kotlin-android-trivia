@@ -51,6 +51,9 @@ The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 
 <img src="screenshots/screen_1.png" width="200">
 <img src="screenshots/screen_2.png" width="200">
+<img src="screenshots/Screenshot_1588515738.png" width="200">
+<img src="screenshots/Screenshot_1588528153.png" width="200">
+<img src="screenshots/Screenshot_1588528158.png" width="200">
 
 <hr>
 
