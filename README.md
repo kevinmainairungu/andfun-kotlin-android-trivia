@@ -23,6 +23,8 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 
 <br>
 
+[![Build Status](https://app.bitrise.io/app/53d2d85f08751a22/status.svg?token=FMnmaVWLN98ElrQJ3pAqgw)](https://app.bitrise.io/app/53d2d85f08751a22)
+
 ### Table of contents
 
 **1 [About the App](#about-the-app)**<br>
