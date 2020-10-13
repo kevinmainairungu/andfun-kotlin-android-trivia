@@ -53,7 +53,8 @@ The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 <img src="screenshots/Screenshot_1588528158.png" width="200">
 
 <hr>
-### App Stores
+
+### App Store
 
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.game.android.trivia)
 
